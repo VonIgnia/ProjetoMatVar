@@ -1,0 +1,7 @@
+Processo: 
+- desenhar um modelo de peça de xadrez no inkscape;
+- Usar um conjunto de funções no geogebra para tentar 
+  criar uma réplica ou aproximação do modelo salvo em svg.;
+-passar esse conjunto de funções para um script feito em 
+  python e lido pelo Autodesk Fusion 360;
+-Verificar se funcionou
